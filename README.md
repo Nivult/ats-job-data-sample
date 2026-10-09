@@ -40,9 +40,10 @@ Every line in the `.jsonl` file is a valid JSON object. Here is the normalized s
 }
 ```
 
-🐍 Quickstart (Python)
-Want to test the data quickly? Here is how to parse the .jsonl file:
+### 🐍 Quickstart (Python)
+Want to test the data quickly? Here is how to parse the `.jsonl` file:
 
+```python
 import json
 
 with open('sample_data.jsonl', 'r') as file:
