@@ -52,7 +52,9 @@ with open('sample_data.jsonl', 'r') as file:
         print(f"{job['job']['title']} at {job['employer']['name']}")
 ```
 
-⚡ Need the Live API?
+
+### ⚡ Need the Live API?
+
 This repository is just a static snapshot. If you need the live index—updated daily with delta feeds (new, updated, and closed postings)—you can use our API.
 
 👉 Get the Live API on RapidAPI Hub at https://rapidapi.com/nivult-nivult-default/api/nivult-job-postings-company-data
