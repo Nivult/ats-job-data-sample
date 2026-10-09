@@ -5,7 +5,7 @@ This repository contains a free, static sample of job postings extracted directl
 Scraping ATS platforms is notoriously painful. The data is messy, job titles don't reflect the actual tech stack, and aggregators are full of expired listings. We built Nivult to solve this: we index directly from the source and run proprietary classifiers to extract and normalize the actual data.
 
 ### 🚀 Scale of the Full Nivult Dataset
-While this repository contains a static sample, our live API and database continuously track:
+While this repository contains a static sample, our live API and database continuously track more than:
 *   **3,896,088** active job postings
 *   **69,625** companies hiring now
 *   **245** countries covered
