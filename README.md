@@ -38,6 +38,7 @@ Every line in the `.jsonl` file is a valid JSON object. Here is the normalized s
   "url": "[https://techcorp.workday.com/](https://techcorp.workday.com/)...",
   "scraped_at": "2026-10-09T08:00:00Z"
 }
+```
 
 🐍 Quickstart (Python)
 Want to test the data quickly? Here is how to parse the .jsonl file:
