@@ -50,6 +50,7 @@ with open('sample_data.jsonl', 'r') as file:
     for line in file:
         job = json.loads(line)
         print(f"{job['job']['title']} at {job['employer']['name']}")
+```
 
 ⚡ Need the Live API?
 This repository is just a static snapshot. If you need the live index—updated daily with delta feeds (new, updated, and closed postings)—you can use our API.
