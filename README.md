@@ -9,7 +9,7 @@ While this repository contains a static sample, our live API and database contin
 *   **3,896,088** active job postings
 *   **69,625** companies hiring now
 *   **245** countries covered
-*   **106,034** new postings / day
+*   **150,034** new postings / day
 
 ### 💡 About this sample
 * **Format:** `.jsonl` (100k lines, gzipped)
