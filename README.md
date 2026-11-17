@@ -15,7 +15,7 @@ This repository is a static sample. The live index tracks, every morning:
 
 ## About this sample
 
-Snapshot updated **17 November 2026**.
+Snapshot updated **November 2026**.
 
 * `Jobs Sample.gz`: **500 active job postings**, with full description text where available at the source
 * `Company Sample.jsonl.gz`: **500 company profiles**, with domains, locations, technologies and hiring signals where available
